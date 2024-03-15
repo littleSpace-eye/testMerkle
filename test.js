@@ -3,7 +3,7 @@ const fs = require('fs');
 const csvParser = require('csv-parser');
 
 // 开始计时
-console.time('TotalTime');
+console.time('TotalTime1');
 
 const values = [];
 
